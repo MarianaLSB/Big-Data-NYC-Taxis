@@ -1,6 +1,6 @@
 # NYC Taxi Trips — Data Lake Migration
 
-**Proyecto Final — Análisis de Grandes Volúmenes de Datos ED08**  
+**Proyecto Final — Análisis de Grandes Volúmenes de Datos**  
 Universidad Panamericana | 2026
 
 ## Equipo
